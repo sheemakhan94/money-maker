@@ -1,0 +1,12 @@
+/Users/sheemakhan/development/projects/C#/coin-calc/bin/Debug/netcoreapp3.1/coin-calc.deps.json
+/Users/sheemakhan/development/projects/C#/coin-calc/bin/Debug/netcoreapp3.1/coin-calc.runtimeconfig.json
+/Users/sheemakhan/development/projects/C#/coin-calc/bin/Debug/netcoreapp3.1/coin-calc.runtimeconfig.dev.json
+/Users/sheemakhan/development/projects/C#/coin-calc/bin/Debug/netcoreapp3.1/coin-calc.dll
+/Users/sheemakhan/development/projects/C#/coin-calc/bin/Debug/netcoreapp3.1/coin-calc.pdb
+/Users/sheemakhan/development/projects/C#/coin-calc/obj/Debug/netcoreapp3.1/coin-calc.csprojAssemblyReference.cache
+/Users/sheemakhan/development/projects/C#/coin-calc/obj/Debug/netcoreapp3.1/coin-calc.AssemblyInfoInputs.cache
+/Users/sheemakhan/development/projects/C#/coin-calc/obj/Debug/netcoreapp3.1/coin-calc.AssemblyInfo.cs
+/Users/sheemakhan/development/projects/C#/coin-calc/obj/Debug/netcoreapp3.1/coin-calc.csproj.CoreCompileInputs.cache
+/Users/sheemakhan/development/projects/C#/coin-calc/obj/Debug/netcoreapp3.1/coin-calc.dll
+/Users/sheemakhan/development/projects/C#/coin-calc/obj/Debug/netcoreapp3.1/coin-calc.pdb
+/Users/sheemakhan/development/projects/C#/coin-calc/obj/Debug/netcoreapp3.1/coin-calc.genruntimeconfig.cache
